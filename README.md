@@ -1,4 +1,4 @@
-![logo](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+![logo]([https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif))
 
 <h1 align="center">Hi 👋, I'm Al Mamun</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
